@@ -1,4 +1,4 @@
-Template 1.5
+Template 1.6
 ============
 
 $project will solve your problem of where to start with documentation,
